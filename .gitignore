@@ -1,0 +1,21 @@
+# Swift Package Manager and local build output
+.build/
+.swiftpm/
+
+# macOS metadata and generated caches
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.py[cod]
+
+# Codex/workspace-local metadata
+.codex/
+
+# Generated app bundles and distribution images
+*.app/
+*.dmg
+
+# Local signing/profiling output
+*.xcarchive/
+*.mobileprovision
+
